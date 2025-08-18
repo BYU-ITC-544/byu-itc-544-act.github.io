@@ -1,21 +1,15 @@
 # Operational Assessments
 
-
 Operational assessments are vital for evaluating the efficiency, effectiveness, and performance of an organization's operations. By reviewing processes, systems, and procedures, you can identify strengths, weaknesses, opportunities, and threats—helping optimize workflows, improve resource use, and drive continuous improvement.
 
-
 ## Instructions:
-
 
 1. Choose **one** operational assessment from Chapter 56: *Operational Assessments*, in *The Practice of System and Network Administration*.
 1. Complete the assessment, documenting your findings.
 1. Submit your completed assessment in the appropriate file format.
 
 
-
-
 ### Chapter 56 Sub-Assessments (Options):
-
 
 1. **Regular Tasks (RT)** – Evaluate routine operational activities and their efficiency.
 1. **Emergency Response (ER)** – Assess readiness and processes for handling emergencies.
@@ -31,10 +25,7 @@ Operational assessments are vital for evaluating the efficiency, effectiveness, 
 1. **Disaster Preparedness** – Assess preparedness for disasters, including planning and recovery strategies.
 
 
-
-
 ### Submission Requirements:
-
 
 * Select **one** of the operational assessment topics above and use the listed scenario that matches the chosen assessment.
 * Produce a **written report** covering:
@@ -43,9 +34,7 @@ Operational assessments are vital for evaluating the efficiency, effectiveness, 
   * Findings (strengths, weaknesses, opportunities, threats).
   * Recommendations for improvement.
   * Supporting evidence (diagrams, extracts, charts, screenshots).
-* Submit the report in a **clear, structured format**
-
-
+* Submit the report in a **clear, structured format** as a PDF.
 
 
 ## Operational Assessment Scenarios
