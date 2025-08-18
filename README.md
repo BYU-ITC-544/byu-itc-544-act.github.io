@@ -2,7 +2,7 @@
 
 ## Homework
 
-- [Linux Command Line](hws/Linux%20Command%20Line.html)
+- [Linux Command Line](hws/Linux%20Command%20Line.md)
 - [Operational Assessments](./hws/Operational%20Assessments.md)
 - [Project Management Methodology](./hws/Project%20Management%20Methodology.md)
 - [Report on IT Compliance Standards](./hws/Report%20on%20IT%20Compliance%20Standards.md)
