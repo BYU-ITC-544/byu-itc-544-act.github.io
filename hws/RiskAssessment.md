@@ -11,7 +11,7 @@ All the information you need about the company for your risk assessment can be f
 Templates for both the written report and the risk register are provided:
 
 - [Download Report Template](./risk-assessment/template.md){:download="template.md"}
-- [Risk Register](./risk-assessment/RiskRegister.xlsx)
+- [Download Risk Register](./risk-assessment/RiskRegister.xlsx)
 
 Your plan should at a minimum contain the following:
 

@@ -4,7 +4,7 @@ A Service Level Agreement (SLA) is a formal contract between a service provider 
 
 ### Instructions:
 
-See [Frostbyte Gaming Cafés](./service-level-agreement/FrostbyteGamingCafés.md) for information about the company to use when writing your SLA.
+See <a href="./service-level-agreement/FrostbyteGamingCafés.md" target="_blank">Frostbyte Gaming Cafés</a> for information about the company to use when writing your SLA.
 
 1. Write the SLA
    - Your SLA should include the following sections:
