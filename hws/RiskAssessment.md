@@ -2,8 +2,7 @@
 
 Risk assessments are a foundational component of an organization's risk management strategy, aimed at identifying, evaluating, and mitigating potential threats to its operations, assets, and personnel. This systematic process involves recognizing hazards, analyzing the likelihood and impact of these risks, and determining appropriate measures to minimize or eliminate them. By conducting thorough risk assessments, organizations can proactively address vulnerabilities, improve decision-making, and ensure compliance with legal and regulatory requirements.
 
-For an instructional video on risk assessments featuring Tom and Jerry, see: [Video](./risk-assessment/Tom&Jerry.mp4)
-
+For an instructional video on risk assessments featuring Tom & Jerry : <a href="./risk-assessment/Tom&Jerry.mp4" target="_blank">Watch this Video</a>
 
 ## Instructions:
 
@@ -11,9 +10,8 @@ All the information you need about the company for your risk assessment can be f
 
 Templates for both the written report and the risk register are provided:
 
-* [Report Template](./risk-assessment/template.md)
-* [Risk Register](./risk-assessment/RiskRegister.xlsx)
-
+- [Download Report Template](./risk-assessment/template.md){:download="template.md"}
+- [Risk Register](./risk-assessment/RiskRegister.xlsx)
 
 Your plan should at a minimum contain the following:
 
