@@ -133,7 +133,12 @@ Choose the technologies & software that you will use. Several technologies you m
 | 6  | 250-259 | 47-48 | 1352 | 172.16.40.20-172.16.40.21 | https://172.16.40.20:8006 |
 
 - Both assigned switch ports **must be used** and properly bonded for LACP.
-- The first IP in the WAN IP range is already assigned to Proxmox; the second is used for your router WAN interface.
+- The first IP in the WAN IP range is already assigned to Proxmox; the second is used for your router WAN interface. 
+Here’s a cleaned-up and clearer version of your text:
+- The Proxmox instance has **two network interfaces**:
+  - **ens18**: This will be used as the **WAN**. It is already configured in access mode to provide access to the Proxmox instance
+  - **ens19**: This will be used as the **LAN**. It is **trunked** for all 10 VLANs assigned to your team. You will need to make the necessary configuration changes in Proxmox to properly utilize these VLANs.
+- When setting up your router, you can use **ens18**, which is connected to **vmbr0**, for the WAN. However, you will need to configure all of your internal VLANs, which can be done through the **Proxmox GUI**.
 
 ### Step 3: Other Design Considerations
 
