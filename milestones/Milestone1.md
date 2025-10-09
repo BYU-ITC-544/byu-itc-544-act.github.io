@@ -125,12 +125,8 @@ Choose the technologies & software that you will use. Several technologies you m
 
 | Team Number | VLAN Range| Switch Ports | VPN Port | WAN IP Range | Proxmox URL |
 | -- | ------- | ----- | ---- | --------------------------| ------------------------- |
-| 1  | 200-209 | 37-38 | 1347 | 172.16.40.10-172.16.40.11 | https://172.16.40.10:8006 |
-| 2  | 210-219 | 39-40 | 1348 | 172.16.40.12-172.16.40.13 | https://172.16.40.12:8006 |
-| 3  | 220-229 | 41-42 | 1349 | 172.16.40.14-172.16.40.15 | https://172.16.40.14:8006 |
-| 4  | 230-239 | 43-44 | 1350 | 172.16.40.16-172.16.40.17 | https://172.16.40.16:8006 |
-| 5  | 240-249 | 45-46 | 1351 | 172.16.40.18-172.16.40.19 | https://172.16.40.18:8006 |
-| 6  | 250-259 | 47-48 | 1352 | 172.16.40.20-172.16.40.21 | https://172.16.40.20:8006 |
+| 1  | 200-209 | 37-38 | 1347 | 172.16.40.10-172.16.40.11 | https://172.16.40.20:8006 |
+| 2  | 210-219 | 39-40 | 1348 | 172.16.40.12-172.16.40.13 | https://172.16.40.22:8006 |
 
 - Both assigned switch ports **must be used** and properly bonded for LACP.
 - The first IP in the WAN IP range is already assigned to Proxmox; the second is used for your router WAN interface. 
