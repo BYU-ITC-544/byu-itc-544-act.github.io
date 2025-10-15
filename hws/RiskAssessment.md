@@ -6,7 +6,7 @@ For an instructional video on risk assessments featuring Tom & Jerry : <a href="
 
 ## Instructions:
 
-All the information you need about the company for your risk assessment can be found here: [Silverline Financial Solutions](./risk-assessment/Silverline-Financial-Solutions.md).
+All the information you need about the company for your risk assessment can be found here: [Silverline Financial Solutions](./risk-assessment/SilverlineFinancialSolutions.md).
 
 Templates for both the written report and the risk register are provided:
 
